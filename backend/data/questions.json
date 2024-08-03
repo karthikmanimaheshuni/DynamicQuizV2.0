@@ -1,0 +1,707 @@
+[
+    {
+      "text": "What is the capital of France?",
+      "difficulty": "easy",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correct_answer": "Paris",
+      "topic": "geography"
+    },
+    {
+      "text": "Who wrote 'Hamlet'?",
+      "difficulty": "easy",
+      "options": ["Mark Twain", "William Shakespeare", "Charles Dickens", "Jane Austen"],
+      "correct_answer": "William Shakespeare",
+      "topic": "general knowledge"
+    },
+    {
+      "text": "When did the American Civil War end?",
+      "difficulty": "easy",
+      "options": ["1861", "1863", "1865", "1867"],
+      "correct_answer": "1865",
+      "topic": "history"
+    },
+    {
+      "text": "Where is the Great Wall of China located?",
+      "difficulty": "easy",
+      "options": ["Japan", "India", "China", "Russia"],
+      "correct_answer": "China",
+      "topic": "geography"
+    },
+    {
+      "text": "Name the largest planet in our solar system.",
+      "difficulty": "easy",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Jupiter",
+      "topic": "science"
+    },
+    {
+      "text": "What is the boiling point of water?",
+      "difficulty": "easy",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "correct_answer": "100°C",
+      "topic": "science"
+    },
+    {
+      "text": "Who was the first President of the United States?",
+      "difficulty": "easy",
+      "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+      "correct_answer": "George Washington",
+      "topic": "history"
+    },
+    {
+      "text": "When did World War II end?",
+      "difficulty": "easy",
+      "options": ["1941", "1943", "1945", "1947"],
+      "correct_answer": "1945",
+      "topic": "history"
+    },
+    {
+      "text": "Where is the Eiffel Tower located?",
+      "difficulty": "easy",
+      "options": ["London", "New York", "Paris", "Rome"],
+      "correct_answer": "Paris",
+      "topic": "geography"
+    },
+    {
+      "text": "Name the smallest prime number.",
+      "difficulty": "easy",
+      "options": ["1", "2", "3", "5"],
+      "correct_answer": "2",
+      "topic": "maths"
+    },
+    {
+      "text": "Who discovered penicillin?",
+      "difficulty": "easy",
+      "options": ["Marie Curie", "Alexander Fleming", "Isaac Newton", "Albert Einstein"],
+      "correct_answer": "Alexander Fleming",
+      "topic": "science"
+    },
+    {
+      "text": "When did Neil Armstrong walk on the moon?",
+      "difficulty": "easy",
+      "options": ["1967", "1969", "1971", "1973"],
+      "correct_answer": "1969",
+      "topic": "science"
+    },
+    {
+      "text": "Where is the Amazon Rainforest located?",
+      "difficulty": "easy",
+      "options": ["Africa", "Asia", "South America", "Australia"],
+      "correct_answer": "South America",
+      "topic": "geography"
+    },
+    {
+      "text": "Name the chemical symbol for gold.",
+      "difficulty": "easy",
+      "options": ["Ag", "Au", "Pt", "Pb"],
+      "correct_answer": "Au",
+      "topic": "chemistry"
+    },
+    {
+      "text": "What is the capital of Japan?",
+      "difficulty": "easy",
+      "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+      "correct_answer": "Tokyo",
+      "topic": "geography"
+    },
+    {
+      "text": "Who painted the Mona Lisa?",
+      "difficulty": "easy",
+      "options": ["Vincent van Gogh", "Claude Monet", "Leonardo da Vinci", "Pablo Picasso"],
+      "correct_answer": "Leonardo da Vinci",
+      "topic": "general knowledge"
+    },
+    {
+      "text": "When was the Declaration of Independence signed?",
+      "difficulty": "easy",
+      "options": ["1774", "1776", "1778", "1780"],
+      "correct_answer": "1776",
+      "topic": "history"
+    },
+    {
+      "text": "Where is Mount Everest located?",
+      "difficulty": "easy",
+      "options": ["India", "Nepal", "China", "Bhutan"],
+      "correct_answer": "Nepal",
+      "topic": "geography"
+    },
+    {
+      "text": "Name the largest desert in the world.",
+      "difficulty": "easy",
+      "options": ["Sahara", "Gobi", "Kalahari", "Arctic"],
+      "correct_answer": "Sahara",
+      "topic": "geography"
+    },
+    {
+      "text": "What is the capital of Italy?",
+      "difficulty": "easy",
+      "options": ["Venice", "Milan", "Rome", "Naples"],
+      "correct_answer": "Rome",
+      "topic": "geography"
+    },
+    {
+      "text": "Explain the process of photosynthesis.",
+      "difficulty": "medium",
+      "options": [
+        "Conversion of chemical energy to light energy",
+        "Conversion of light energy to chemical energy",
+        "Conversion of heat energy to chemical energy",
+        "Conversion of light energy to heat energy"
+      ],
+      "correct_answer": "Conversion of light energy to chemical energy",
+      "topic": "science"
+    },
+    {
+      "text": "Describe the structure of a DNA molecule.",
+      "difficulty": "medium",
+      "options": [
+        "Single helix structure",
+        "Triple helix structure",
+        "Double helix structure",
+        "Quadruple helix structure"
+      ],
+      "correct_answer": "Double helix structure",
+      "topic": "biology"
+    },
+    {
+      "text": "Compare mitosis and meiosis.",
+      "difficulty": "medium",
+      "options": [
+        "Both involve the division of one cell into two identical cells",
+        "Mitosis results in two identical cells; meiosis results in four non-identical cells",
+        "Mitosis occurs in reproductive cells; meiosis occurs in somatic cells",
+        "Both processes reduce the chromosome number by half"
+      ],
+      "correct_answer": "Mitosis results in two identical cells; meiosis results in four non-identical cells",
+      "topic": "biology"
+    },
+    {
+      "text": "Contrast the economies of the United States and China.",
+      "difficulty": "medium",
+      "options": [
+        "Both have centrally planned economies",
+        "The United States has a mixed economy, while China has a market economy",
+        "The United States has a market economy, while China has a mixed economy",
+        "The United States has a market economy, while China has a centrally planned economy"
+      ],
+      "correct_answer": "The United States has a market economy, while China has a mixed economy",
+      "topic": "economics"
+    },
+    {
+      "text": "Explain the significance of the Treaty of Versailles.",
+      "difficulty": "medium",
+      "options": [
+        "Ended World War I and imposed harsh penalties on Germany",
+        "Started World War I and imposed harsh penalties on Germany",
+        "Ended World War II and imposed harsh penalties on Germany",
+        "Started World War II and imposed harsh penalties on Germany"
+      ],
+      "correct_answer": "Ended World War I and imposed harsh penalties on Germany",
+      "topic": "history"
+    },
+    {
+      "text": "Describe the chemical properties of water.",
+      "difficulty": "medium",
+      "options": [
+        "High heat capacity, solvent abilities, and high surface tension",
+        "Low heat capacity, solvent abilities, and high surface tension",
+        "High heat capacity, solvent abilities, and low surface tension",
+        "Low heat capacity, solvent abilities, and low surface tension"
+      ],
+      "correct_answer": "High heat capacity, solvent abilities, and high surface tension",
+      "topic": "chemistry"
+    },
+    {
+      "text": "Compare and contrast renewable and non-renewable energy sources.",
+      "difficulty": "medium",
+      "options": [
+        "Both are inexhaustible; renewable sources include fossil fuels, non-renewable include solar energy",
+        "Renewable sources are inexhaustible; non-renewable sources are exhaustible",
+        "Both are exhaustible; renewable sources include fossil fuels, non-renewable include solar energy",
+        "Renewable sources are exhaustible; non-renewable sources are inexhaustible"
+      ],
+      "correct_answer": "Renewable sources are inexhaustible; non-renewable sources are exhaustible",
+      "topic": "science"
+    },
+    {
+      "text": "Explain the difference between an acid and a base.",
+      "difficulty": "medium",
+      "options": [
+        "Acids donate protons; bases accept protons",
+        "Acids accept electrons; bases donate electrons",
+        "Acids accept protons; bases donate protons",
+        "Acids donate electrons; bases accept electrons"
+      ],
+      "correct_answer": "Acids donate protons; bases accept protons",
+      "topic": "chemistry"
+    },
+    {
+      "text": "Describe the significance of the Renaissance.",
+      "difficulty": "medium",
+      "options": [
+        "A period of religious reform and conflict",
+        "A period of renewed interest in art, culture, and learning",
+        "A period of industrial growth and economic development",
+        "A period of political upheaval and war"
+      ],
+      "correct_answer": "A period of renewed interest in art, culture, and learning",
+      "topic": "history"
+    },
+    {
+      "text": "Compare the structures of prokaryotic and eukaryotic cells.",
+      "difficulty": "medium",
+      "options": [
+        "Both have a nucleus; prokaryotic cells have membrane-bound organelles",
+        "Prokaryotic cells have a nucleus; eukaryotic cells lack a nucleus",
+        "Both lack a nucleus; eukaryotic cells have membrane-bound organelles",
+        "Prokaryotic cells lack a nucleus; eukaryotic cells have membrane-bound organelles"
+      ],
+      "correct_answer": "Prokaryotic cells lack a nucleus; eukaryotic cells have membrane-bound organelles",
+      "topic": "biology"
+    },
+    {
+      "text": "Explain the concept of opportunity cost in economics.",
+      "difficulty": "medium",
+      "options": [
+        "The total cost of all resources used in production",
+        "The value of the best alternative forgone when making a decision",
+        "The financial cost of an item or service",
+        "The cost of resources that are owned and used by a business"
+      ],
+      "correct_answer": "The value of the best alternative forgone when making a decision",
+      "topic": "economics"
+    },
+    {
+      "text": "Describe the three states of matter.",
+      "difficulty": "medium",
+      "options": [
+        "Solid, liquid, and gas",
+        "Solid, liquid, and plasma",
+        "Liquid, gas, and plasma",
+        "Solid, gas, and plasma"
+      ],
+      "correct_answer": "Solid, liquid, and gas",
+      "topic": "science"
+    },
+    {
+      "text": "Compare the theories of evolution proposed by Lamarck and Darwin.",
+      "difficulty": "medium",
+      "options": [
+        "Both proposed natural selection as the mechanism of evolution",
+        "Lamarck proposed acquired traits are inherited; Darwin proposed natural selection",
+        "Both proposed that species do not change over time",
+        "Lamarck proposed natural selection; Darwin proposed acquired traits are inherited"
+      ],
+      "correct_answer": "Lamarck proposed acquired traits are inherited; Darwin proposed natural selection",
+      "topic": "biology"
+    },
+    {
+      "text": "Contrast aerobic and anaerobic respiration.",
+      "difficulty": "medium",
+      "options": [
+        "Both require oxygen to produce energy",
+        "Aerobic respiration occurs without oxygen; anaerobic respiration requires oxygen",
+        "Aerobic respiration requires oxygen; anaerobic respiration occurs without oxygen",
+        "Both occur without oxygen"
+      ],
+      "correct_answer": "Aerobic respiration requires oxygen; anaerobic respiration occurs without oxygen",
+      "topic": "biology"
+    },
+    {
+      "text": "Explain the significance of Newton's First Law of Motion.",
+      "difficulty": "medium",
+      "options": [
+        "An object in motion stays in motion unless acted upon by an external force",
+        "For every action, there is an equal and opposite reaction",
+        "The acceleration of an object is proportional to the net force acting on it",
+        "The total energy of an isolated system remains constant"
+      ],
+      "correct_answer": "An object in motion stays in motion unless acted upon by an external force",
+      "topic": "physics"
+    },
+    {
+      "text": "Describe the main functions of the three branches of the United States government.",
+      "difficulty": "medium",
+      "options": [
+        "Legislative makes laws, Executive enforces laws, Judicial interprets laws",
+        "Executive makes laws, Legislative enforces laws, Judicial interprets laws",
+        "Judicial makes laws, Executive enforces laws, Legislative interprets laws",
+        "Legislative enforces laws, Executive interprets laws, Judicial makes laws"
+      ],
+      "correct_answer": "Legislative makes laws, Executive enforces laws, Judicial interprets laws",
+      "topic": "civics"
+    },
+    {
+      "text": "Compare the geological processes of erosion and weathering.",
+      "difficulty": "medium",
+      "options": [
+        "Both involve the movement of rock particles",
+        "Erosion involves breaking down rocks; weathering involves transporting them",
+        "Weathering involves breaking down rocks; erosion involves transporting them",
+        "Both involve the deposition of rock particles"
+      ],
+      "correct_answer": "Weathering involves breaking down rocks; erosion involves transporting them",
+      "topic": "geology"
+    },
+    {
+      "text": "Explain the difference between speed and velocity.",
+      "difficulty": "medium",
+      "options": [
+        "Speed is the rate of change of position; velocity is speed in a given direction",
+        "Velocity is the rate of change of position; speed is velocity in a given direction",
+        "Speed and velocity are the same",
+        "Velocity is the rate of change of time; speed is the rate of change of distance"
+      ],
+      "correct_answer": "Speed is the rate of change of position; velocity is speed in a given direction",
+      "topic": "physics"
+    },
+    {
+      "text": "Describe the importance of the Magna Carta.",
+      "difficulty": "medium",
+      "options": [
+        "It established the principle of absolute monarchy",
+        "It limited the power of the king and established certain legal rights",
+        "It started the French Revolution",
+        "It ended the American Civil War"
+      ],
+      "correct_answer": "It limited the power of the king and established certain legal rights",
+      "topic": "history"
+    },
+    {
+      "text": "Explain the role of chlorophyll in photosynthesis.",
+      "difficulty": "medium",
+      "options": [
+        "It absorbs light energy to convert carbon dioxide and water into glucose",
+        "It releases oxygen as a byproduct of photosynthesis",
+        "It transports water and nutrients to plant cells",
+        "It stores energy in the form of ATP"
+      ],
+      "correct_answer": "It absorbs light energy to convert carbon dioxide and water into glucose",
+      "topic": "biology"
+    },
+    {
+      "text": "Analyze the impact of the Industrial Revolution on European society.",
+      "difficulty": "hard",
+      "options": [
+        "It led to the decline of urban areas and increased rural population",
+        "It resulted in the end of mercantilism and the rise of feudalism",
+        "It caused a decrease in population growth due to harsh working conditions",
+        "It transformed economies from agrarian to industrial and led to urbanization"
+      ],
+      "correct_answer": "It transformed economies from agrarian to industrial and led to urbanization",
+      "topic": "history"
+    },
+    {
+      "text": "Evaluate the effectiveness of the New Deal in addressing the Great Depression.",
+      "difficulty": "hard",
+      "options": [
+        "It immediately ended the Great Depression and restored full employment",
+        "It had mixed results, providing relief and reform but not fully ending the Depression",
+        "It was largely ineffective and led to further economic decline",
+        "It was successful in completely transforming the US economy into a socialist system"
+      ],
+      "correct_answer": "It had mixed results, providing relief and reform but not fully ending the Depression",
+      "topic": "history"
+    },
+    {
+      "text": "Synthesize the key principles of quantum mechanics and classical mechanics.",
+      "difficulty": "hard",
+      "options": [
+        "Both describe the behavior of large-scale objects with certainty",
+        "Quantum mechanics describes probability and uncertainty at microscopic scales, while classical mechanics describes deterministic laws at macroscopic scales",
+        "Classical mechanics applies to atomic particles, and quantum mechanics applies to celestial bodies",
+        "Both are completely incompatible and describe unrelated phenomena"
+      ],
+      "correct_answer": "Quantum mechanics describes probability and uncertainty at microscopic scales, while classical mechanics describes deterministic laws at macroscopic scales",
+      "topic": "physics"
+    },
+    {
+      "text": "Interpret the meaning of the Second Law of Thermodynamics.",
+      "difficulty": "hard",
+      "options": [
+        "Energy can be created or destroyed, but not transferred",
+        "The total energy of an isolated system remains constant",
+        "Entropy of an isolated system always increases over time",
+        "Entropy of an isolated system always decreases over time"
+      ],
+      "correct_answer": "Entropy of an isolated system always increases over time",
+      "topic": "physics"
+    },
+    {
+      "text": "Analyze the effects of supply and demand on market equilibrium.",
+      "difficulty": "hard",
+      "options": [
+        "Increased demand decreases equilibrium price, and increased supply increases equilibrium price",
+        "Increased demand increases equilibrium price, and increased supply decreases equilibrium price",
+        "Supply and demand have no effect on market equilibrium",
+        "Increased demand and supply both decrease equilibrium price"
+      ],
+      "correct_answer": "Increased demand increases equilibrium price, and increased supply decreases equilibrium price",
+      "topic": "economics"
+    },
+    {
+      "text": "Evaluate the impact of globalization on developing countries.",
+      "difficulty": "hard",
+      "options": [
+        "Globalization has no significant impact on developing countries",
+        "It solely benefits developed countries and harms developing countries",
+        "It can lead to economic growth and development, but also to inequality and exploitation",
+        "It leads to complete economic independence for developing countries"
+      ],
+      "correct_answer": "It can lead to economic growth and development, but also to inequality and exploitation",
+      "topic": "economics"
+    },
+    {
+      "text": "Synthesize the main differences between mitosis and meiosis.",
+      "difficulty": "hard",
+      "options": [
+        "Both processes result in the formation of identical daughter cells",
+        "Mitosis results in two identical diploid cells, while meiosis results in four non-identical haploid cells",
+        "Mitosis occurs only in reproductive cells, while meiosis occurs in all body cells",
+        "Meiosis results in two identical haploid cells, while mitosis results in four non-identical diploid cells"
+      ],
+      "correct_answer": "Mitosis results in two identical diploid cells, while meiosis results in four non-identical haploid cells",
+      "topic": "biology"
+    },
+    {
+      "text": "Interpret the significance of the Heisenberg Uncertainty Principle.",
+      "difficulty": "hard",
+      "options": [
+        "It states that it is impossible to know both the exact position and momentum of a particle simultaneously",
+        "It states that particles can exist in multiple states at the same time",
+        "It describes the wave-particle duality of light",
+        "It explains the deterministic nature of classical mechanics"
+      ],
+      "correct_answer": "It states that it is impossible to know both the exact position and momentum of a particle simultaneously",
+      "topic": "physics"
+    },
+    {
+      "text": "Evaluate the role of enzymes in biochemical reactions.",
+      "difficulty": "hard",
+      "options": [
+        "Enzymes act as reactants in chemical reactions",
+        "Enzymes slow down biochemical reactions",
+        "Enzymes increase the activation energy required for reactions",
+        "Enzymes lower the activation energy and speed up biochemical reactions"
+      ],
+      "correct_answer": "Enzymes lower the activation energy and speed up biochemical reactions",
+      "topic": "biology"
+    },
+    {
+      "text": "Analyze the causes and effects of the Great Depression.",
+      "difficulty": "hard",
+      "options": [
+        "Caused by high inflation and resulted in rapid economic growth",
+        "Caused by stock market crash and bank failures, resulting in widespread unemployment and poverty",
+        "Caused by government intervention and resulted in increased economic stability",
+        "Caused by technological advancements and resulted in increased productivity"
+      ],
+      "correct_answer": "Caused by stock market crash and bank failures, resulting in widespread unemployment and poverty",
+      "topic": "history"
+    },
+    {
+      "text": "Interpret the significance of the law of diminishing returns.",
+      "difficulty": "hard",
+      "options": [
+        "Increasing one factor of production, while keeping others constant, will eventually lead to lower marginal returns",
+        "Increasing all factors of production will always result in proportional increases in output",
+        "Decreasing one factor of production, while keeping others constant, will lead to higher marginal returns",
+        "Decreasing all factors of production will always result in lower output"
+      ],
+      "correct_answer": "Increasing one factor of production, while keeping others constant, will eventually lead to lower marginal returns",
+      "topic": "economics"
+    },
+    {
+      "text": "Evaluate the ethical implications of genetic engineering.",
+      "difficulty": "hard",
+      "options": [
+        "It poses no ethical concerns",
+        "It raises concerns about safety, biodiversity, and potential for misuse",
+        "It is universally accepted as ethically sound",
+        "It has no impact on biodiversity or safety"
+      ],
+      "correct_answer": "It raises concerns about safety, biodiversity, and potential for misuse",
+      "topic": "biology"
+    },
+    {
+      "text": "Synthesize the principles of plate tectonics and their implications for earthquake activity.",
+      "difficulty": "hard",
+      "options": [
+        "Plate tectonics have no relationship to earthquake activity",
+        "Plate tectonics explain the movement of Earth's crustal plates and are closely related to earthquake occurrences",
+        "Plate tectonics only explain volcanic activity, not earthquakes",
+        "Plate tectonics are unrelated to geological phenomena"
+      ],
+      "correct_answer": "Plate tectonics explain the movement of Earth's crustal plates and are closely related to earthquake occurrences",
+      "topic": "geology"
+    },
+    {
+      "text": "Interpret the impact of the Cold War on global politics.",
+      "difficulty": "hard",
+      "options": [
+        "It had no significant impact on global politics",
+        "It led to the formation of non-aligned movements and a shift in power dynamics",
+        "It resulted in the unification of all countries under a single government",
+        "It caused the end of all political conflicts"
+      ],
+      "correct_answer": "It led to the formation of non-aligned movements and a shift in power dynamics",
+      "topic": "history"
+    },
+    {
+      "text": "Evaluate the consequences of deforestation on biodiversity.",
+      "difficulty": "hard",
+      "options": [
+        "Deforestation has no effect on biodiversity",
+        "It leads to an increase in biodiversity",
+        "It results in the loss of habitat and decline in species diversity",
+        "It results in increased habitat and species diversity"
+      ],
+      "correct_answer": "It results in the loss of habitat and decline in species diversity",
+      "topic": "environment"
+    },
+    {
+      "text": "Analyze the influence of Renaissance humanism on art and literature.",
+      "difficulty": "hard",
+      "options": [
+        "It discouraged the depiction of human subjects",
+        "It promoted the study and representation of classical antiquity and human experience",
+        "It led to the rejection of classical antiquity in favor of medieval themes",
+        "It had no impact on art and literature"
+      ],
+      "correct_answer": "It promoted the study and representation of classical antiquity and human experience",
+      "topic": "history"
+    },
+    {
+      "text": "Evaluate the role of the mitochondria in cellular respiration.",
+      "difficulty": "hard",
+      "options": [
+        "Mitochondria are involved in protein synthesis",
+        "Mitochondria are the site of photosynthesis in plant cells",
+        "Mitochondria generate ATP through cellular respiration",
+        "Mitochondria store genetic information for the cell"
+      ],
+      "correct_answer": "Mitochondria generate ATP through cellular respiration",
+      "topic": "biology"
+    },
+    {
+      "text": "Interpret the implications of the Theory of Relativity on modern physics.",
+      "difficulty": "hard",
+      "options": [
+        "It has no implications for modern physics",
+        "It has redefined concepts of space, time, and gravity",
+        "It supports the classical Newtonian physics",
+        "It is only applicable to subatomic particles"
+      ],
+      "correct_answer": "It has redefined concepts of space, time, and gravity",
+      "topic": "physics"
+    },
+    {
+      "text": "Evaluate the social and economic impacts of urbanization.",
+      "difficulty": "hard",
+      "options": [
+        "Urbanization has no significant social or economic impacts",
+        "It leads to decreased economic activity and social isolation",
+        "It can drive economic growth, but also create social challenges like overcrowding and inequality",
+        "It results in complete economic stability and social harmony"
+      ],
+      "correct_answer": "It can drive economic growth, but also create social challenges like overcrowding and inequality",
+      "topic": "sociology"
+    },
+    {
+      "text": "Analyze the causes and consequences of climate change.",
+      "difficulty": "hard",
+      "options": [
+        "Climate change is caused by natural factors alone and has no human impact",
+        "Human activities like burning fossil fuels contribute to climate change, leading to global warming and extreme weather events",
+        "Climate change results in cooling of the planet and increased ice formation",
+        "It has no significant effects on ecosystems or human life"
+      ],
+      "correct_answer": "Human activities like burning fossil fuels contribute to climate change, leading to global warming and extreme weather events",
+      "topic": "environment"
+    },
+    {
+      "text": "Synthesize the contributions of key figures in the development of modern chemistry.",
+      "difficulty": "hard",
+      "options": [
+        "Only Antoine Lavoisier contributed to modern chemistry",
+        "Key figures like Antoine Lavoisier, Dmitri Mendeleev, and Marie Curie significantly advanced the field",
+        "Modern chemistry developed without contributions from individual scientists",
+        "Only Marie Curie contributed to modern chemistry"
+      ],
+      "correct_answer": "Key figures like Antoine Lavoisier, Dmitri Mendeleev, and Marie Curie significantly advanced the field",
+      "topic": "chemistry"
+    },
+    {
+      "text": "Evaluate the impact of digital technology on communication and information dissemination.",
+      "difficulty": "hard",
+      "options": [
+        "Digital technology has no effect on communication",
+        "It has transformed how information is shared, enabling instant global communication and access to information",
+        "It has slowed down the pace of information dissemination",
+        "It is irrelevant to modern communication systems"
+      ],
+      "correct_answer": "It has transformed how information is shared, enabling instant global communication and access to information",
+      "topic": "technology"
+    },
+    {
+      "text": "Analyze the implications of Einstein's mass-energy equivalence formula (E=mc^2).",
+      "difficulty": "hard",
+      "options": [
+        "It has no real-world applications",
+        "It implies that mass can be converted into energy and vice versa, laying the foundation for nuclear energy",
+        "It suggests that energy is always constant and cannot change",
+        "It is only applicable to chemical reactions"
+      ],
+      "correct_answer": "It implies that mass can be converted into energy and vice versa, laying the foundation for nuclear energy",
+      "topic": "physics"
+    },
+    {
+      "text": "Evaluate the effects of monetary policy on inflation and unemployment.",
+      "difficulty": "hard",
+      "options": [
+        "Monetary policy has no impact on inflation or unemployment",
+        "Monetary policy can influence inflation rates and employment levels through interest rates and money supply",
+        "Monetary policy only affects employment, not inflation",
+        "Monetary policy only affects inflation, not employment"
+      ],
+      "correct_answer": "Monetary policy can influence inflation rates and employment levels through interest rates and money supply",
+      "topic": "economics"
+    },
+    {
+      "text": "Interpret the significance of the conservation of momentum in physics.",
+      "difficulty": "hard",
+      "options": [
+        "Momentum is not conserved in isolated systems",
+        "The total momentum of an isolated system remains constant if no external forces act on it",
+        "Momentum conservation only applies to stationary objects",
+        "Momentum is always increasing in an isolated system"
+      ],
+      "correct_answer": "The total momentum of an isolated system remains constant if no external forces act on it",
+      "topic": "physics"
+    },
+    {
+      "text": "Analyze the role of the Supreme Court in the United States government.",
+      "difficulty": "hard",
+      "options": [
+        "The Supreme Court makes laws and policies",
+        "The Supreme Court enforces laws and conducts foreign policy",
+        "The Supreme Court interprets the Constitution and ensures laws are applied fairly",
+        "The Supreme Court has no significant role in the government"
+      ],
+      "correct_answer": "The Supreme Court interprets the Constitution and ensures laws are applied fairly",
+      "topic": "civics"
+    },
+    {
+      "text": "Evaluate the effectiveness of renewable energy sources in reducing carbon emissions.",
+      "difficulty": "hard",
+      "options": [
+        "Renewable energy sources have no impact on carbon emissions",
+        "They are effective in reducing carbon emissions by providing cleaner alternatives to fossil fuels",
+        "They increase carbon emissions compared to fossil fuels",
+        "Renewable energy sources are unreliable and do not significantly affect carbon emissions"
+      ],
+      "correct_answer": "They are effective in reducing carbon emissions by providing cleaner alternatives to fossil fuels",
+      "topic": "environment"
+    }
+ ]
+
